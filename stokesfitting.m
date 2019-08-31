@@ -6,7 +6,7 @@ function P = stokesfitting(data, IG)
 
 caseNr=1;
 
-% 
+%%
 % if(caseNr==1)
 %     saveName='choose the right name ';
 % elseif(caseNr==2)
